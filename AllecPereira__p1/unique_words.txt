@@ -1,0 +1,6 @@
+cat
+bird
+dog
+blue
+snake
+red

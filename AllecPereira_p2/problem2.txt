@@ -1,0 +1,8 @@
+snake 
+dog
+red
+car
+truck
+zebra
+truck
+

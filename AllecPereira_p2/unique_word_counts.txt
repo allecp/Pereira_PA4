@@ -1,0 +1,6 @@
+red 1
+zebra 1
+car 1
+truck 2
+snake 1
+dog 1
